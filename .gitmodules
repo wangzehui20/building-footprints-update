@@ -1,0 +1,6 @@
+[submodule "image-color-translation"]
+	path = image-color-translation
+	url = git@github.com:wangzehui20/image-color-translation.git
+[submodule "semantic-segmentation"]
+	path = semantic-segmentation
+	url = git@github.com:wangzehui20/semantic-segmentation.git
